@@ -1,0 +1,13 @@
+baseline exact min margin 3.176542e-12 turns at x=2539141 (ratio 0.915078); eps41=2.4340e-13
+  it0: q=0.317660 s=3.1766e-12 maxd=1.00e-08 actual_min=-2.4765e-09
+  it1: q=0.317660 s=3.1766e-12 maxd=6.27e-09 actual_min=-1.5945e-10
+  it2: q=0.317660 s=3.1766e-12 maxd=6.26e-09 actual_min=-7.4308e-11
+  it3: q=0.317660 s=3.1766e-12 maxd=6.11e-09 actual_min=3.1766e-12
+{
+  "min_margin_turns": 3.1765150405871356e-12,
+  "min_margin_x": 2539009,
+  "worst_ratio": 0.9150813790625114,
+  "iters": 4
+}
+eps=2.4340e-13 rotT=28.7650 n_rot=41
+saved out/analysis/angle_all_lp.npy
